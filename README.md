@@ -1,0 +1,277 @@
+# CloverCraft SMP S1 v1.21.1 (MC: 1.21.1)
+CloverCraft SMP S1
+## Mods
+- [EMF] Entity Model Features [Fabric & Forge] ([Modrinth](https://modrinth.com/mod/entity-model-features) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/entity-model-features)) [2.4.1]
+- [ETF] Entity Texture Features - [Fabric & Forge] ([Modrinth](https://modrinth.com/mod/entitytexturefeatures) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)) [6.2.9]
+- Advancement Plaques [Neo/Forge] ([Modrinth](https://modrinth.com/mod/advancement-plaques) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)) [1.6.8]
+- AE2 JEI Integration ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/ae2-jei-integration))
+- AE2: Crafting Tree ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/ae2-crafting-tree))
+- AI Improvements ([Modrinth](https://modrinth.com/mod/ai-improvements) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)) [0.5.3]
+- AllTheLeaks (Memory Leak Fix) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/alltheleaks))
+- Almost Unified ([Modrinth](https://modrinth.com/mod/almost-unified) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/almost-unified)) [1.21.1-1.2.3+neoforge]
+- AmbientSounds 6 ([Modrinth](https://modrinth.com/mod/ambientsounds) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)) [6.1.8]
+- Amendments ([Modrinth](https://modrinth.com/mod/amendments) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/amendments)) [neoforge_1.21-1.2.24]
+- Amplified Nether ([Modrinth](https://modrinth.com/mod/amplified-nether) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/amplified-nether)) [1.2.8]
+- Animals Plus ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/animals-plus))
+- Another Furniture ([Modrinth](https://modrinth.com/mod/another-furniture) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/another-furniture)) [4.0.0]
+- AppleSkin ([Modrinth](https://modrinth.com/mod/appleskin) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin)) [3.0.5+mc1.21]
+- Applied Energistics 2 ([Modrinth](https://modrinth.com/mod/ae2) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)) [19.2.8]
+- Applied Energistics 2 Wireless Terminals ([Modrinth](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)) [19.2.2]
+- Aquaculture 2 ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/aquaculture))
+- Aquaculture Delight (A Farmer's Delight Add-on) ([Modrinth](https://modrinth.com/mod/aquaculture-delight) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/aquaculture-delight)) [1.2.0]
+- Architectury API ([Modrinth](https://modrinth.com/mod/architectury-api) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-api)) [13.0.8+neoforge]
+- Armor Statues ([Modrinth](https://modrinth.com/mod/armor-statues) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/armor-statues)) [v21.1.0-1.21.1-NeoForge]
+- Athena ([Modrinth](https://modrinth.com/mod/athena-ctm) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/athena)) [4.0.1]
+- BadOptimizations ([Modrinth](https://modrinth.com/mod/badoptimizations) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/badoptimizations)) [2.2.1]
+- Balm ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/balm))
+- Beautify! ([Modrinth](https://modrinth.com/mod/beautify) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/beautify-decorate)) [2.0.2]
+- Bedspreads ([Modrinth](https://modrinth.com/mod/bedspreads) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bedspreads)) [7.0.0+1.21.1]
+- Better Archeology ([Modrinth](https://modrinth.com/mod/better-archeology) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-archeology)) [1.3.2]
+- Better Ping Display [Forge/NeoForge] ([Modrinth](https://modrinth.com/mod/better-ping-display) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-ping-display)) [1.21.1-1.1]
+- Better Tooltips ([Modrinth](https://modrinth.com/mod/better_tooltips) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-tooltips-neoforge)) [1.0.3]
+- Better Tridents ([Modrinth](https://modrinth.com/mod/better-tridents) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-tridents)) [v21.1.0-1.21.1-NeoForge]
+- Better Villages - NeoForge ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-village-neoforge))
+- Biome Particle Weather ([Modrinth](https://modrinth.com/mod/biome_particle_weather) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/biome-particle-weather)) [5.3.1]
+- Biomes O' Plenty ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty))
+- Blahaj (Fabric) ([Modrinth](https://modrinth.com/mod/blahaj_fabric) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/blahaj-fabric)) [2.0.0]
+- Bookshelf ([Modrinth](https://modrinth.com/mod/bookshelf-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bookshelf)) [21.1.57]
+- CERBON's API [Forge | Fabric | NeoForge] ([Modrinth](https://modrinth.com/mod/cerbons-api) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cerbons-api)) [1.2.0]
+- CERBON's Better Beacons [Forge | Fabric | NeoForge] ([Modrinth](https://modrinth.com/mod/cerbons-better-beacons) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cerbons-better-beacons)) [2.1.1]
+- Chef's Delight [Forge] - Farmer's Delight Add-On ([Modrinth](https://modrinth.com/mod/chefs-delight) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-forge)) [1.0.4-neoforge-1.21.1]
+- Chicken Chunks 1.8.+ ([Modrinth](https://modrinth.com/mod/chicken-chunks) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8)) [2.12.0.103]
+- Chipped ([Modrinth](https://modrinth.com/mod/chipped) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chipped)) [4.0.2]
+- Chisels & Bits - For Forge ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/chisels-bits))
+- Chunk Activity Tracker ([Modrinth](https://modrinth.com/mod/chunk-activity-tracker) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunk-activity-tracker)) [neoforge-1.21.1-1.0.1]
+- Chunk Sending[Forge/Fabric] ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric))
+- Chunky (Forge/NeoForge) ([Modrinth](https://modrinth.com/mod/chunky) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge)) [1.4.23]
+- Clean F3 ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/clean-f3))
+- Clickable advancements[Forge/Fabric] ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements))
+- Cloth Config API (Fabric/Forge/NeoForge) ([Modrinth](https://modrinth.com/mod/cloth-config) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config)) [15.0.140+neoforge]
+- Clumps ([Modrinth](https://modrinth.com/mod/clumps) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/clumps)) [19.0.0.1]
+- Cobweb ([Modrinth](https://modrinth.com/mod/cobweb) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cobweb)) [1.3.3]
+- CodeChicken Lib 1.8.+ ([Modrinth](https://modrinth.com/mod/codechicken-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)) [4.6.0.521]
+- Collective ([Modrinth](https://modrinth.com/mod/collective) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/collective)) [1.21.1-8.3-fabric+forge+neo]
+- Comforts (Fabric/Forge/Quilt) ([Modrinth](https://modrinth.com/mod/comforts) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/comforts)) [9.0.3+1.21.1]
+- Configured ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/configured))
+- Connectible Chains [Fabric] ([Modrinth](https://modrinth.com/mod/connectiblechains) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connectiblechains)) [2.5.2+1.21.1]
+- Connectivity ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/connectivity))
+- Connector Extras ([Modrinth](https://modrinth.com/mod/connector-extras) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connector-extras)) [1.12.1+1.21.1]
+- Controlling ([Modrinth](https://modrinth.com/mod/controlling) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/controlling)) [19.0.5]
+- Cooking for Blockheads ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads))
+- CorgiLib ([Modrinth](https://modrinth.com/mod/corgilib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/corgilib)) [1.21.1-5.0.0.3-NeoForge]
+- Create ([Modrinth](https://modrinth.com/mod/create) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create)) [1.21.1-6.0.4]
+- Create Stuff & Additions ([Modrinth](https://modrinth.com/mod/create-stuff-additions) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions)) [2.1.0.d]
+- Create: Bells & Whistles ([Modrinth](https://modrinth.com/mod/bellsandwhistles) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)) [v0.4.7-1.21.1]
+- Create: Curios Jetpack & Backtank [Forge/Fabric/NeoForge] ([Modrinth](https://modrinth.com/mod/create-curios-jetpack) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-curios-jetpack)) [1.2.0]
+- Create: Sound of Steam ([Modrinth](https://modrinth.com/mod/create-sound-of-steam) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-sound-of-steam)) [0.6.2-1.21.1]
+- Create: Trimmed ([Modrinth](https://modrinth.com/mod/create-trimmed)) [1.0.1]
+- CreativeCore ([Modrinth](https://modrinth.com/mod/creativecore) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/creativecore)) [2.13.2]
+- Creeper Overhaul ([Modrinth](https://modrinth.com/mod/creeper-overhaul) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul)) [4.0.6]
+- Cull Leaves ([Modrinth](https://modrinth.com/mod/cull-leaves) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)) [4.0.1-neoforge]
+- Cupboard ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/cupboard))
+- Curios API (Forge/NeoForge) ([Modrinth](https://modrinth.com/mod/curios) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/curios)) [9.4.2+1.21.1]
+- Decorative Lamps ([Modrinth](https://modrinth.com/mod/decorative-lamps)) [1.7.4]
+- Diagonal Fences [Forge & Fabric] ([Modrinth](https://modrinth.com/mod/diagonal-fences) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)) [v21.1.1-1.21.1-NeoForge]
+- Diagonal Walls ([Modrinth](https://modrinth.com/mod/diagonal-walls) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/diagonal-walls)) [v21.1.2-1.21.1-NeoForge]
+- Diagonal Windows [Forge & Fabric] ([Modrinth](https://modrinth.com/mod/diagonal-windows) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/diagonal-windows)) [v21.1.1-1.21.1-NeoForge]
+- Disable Insecure Chat Toast ([Modrinth](https://modrinth.com/mod/disableinsecurechattoast) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/disable-insecure-chat-toast)) [1.1.0]
+- Distant Horizons: A Level of Detail mod ([Modrinth](https://modrinth.com/mod/distanthorizons) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)) [2.3.2-b-1.21.1]
+- DnT Ancient City Overhaul ([Modrinth](https://modrinth.com/mod/dungeons-and-taverns-ancient-city-overhaul) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dnt-ancient-city-overhaul)) [v2+mod]
+- DnT Desert Temple Overhaul ([Modrinth](https://modrinth.com/mod/dungeons-and-taverns-desert-temple-overhaul) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dnt-desert-temple-overhaul)) [v1.2+mod]
+- DnT End Castle Standalone ([Modrinth](https://modrinth.com/mod/dungeons-and-taverns-end-castle-standalone) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dnt-end-castle-standalone)) [v1.1+mod]
+- DnT Pillager Outpost Overhaul ([Modrinth](https://modrinth.com/mod/dungeons-and-taverns-pillager-outpost-overhaul) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dnt-pillager-outpost-overhaul)) [v2.2+mod]
+- DnT Stronghold Overhaul ([Modrinth](https://modrinth.com/mod/dungeons-and-taverns-stronghold-overhaul) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dnt-stronghold-overhaul)) [v2.1.f+mod]
+- DnT Swamp Hut Overhaul ([Modrinth](https://modrinth.com/mod/dungeons-and-taverns-swamp-hut-overhaul) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dnt-swamp-hut-overhaul)) [v2+mod]
+- DnT Woodland Mansion Replacement ([Modrinth](https://modrinth.com/mod/dungeons-and-taverns-woodland-mansion-replacement) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dnt-woodland-mansion-replacement)) [v1.2+mod]
+- Does It Tick? ([Modrinth](https://modrinth.com/mod/does-it-tick) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/does-it-tick)) [neoforge-1.21.1-1.1.4]
+- Dungeons and Taverns ([Modrinth](https://modrinth.com/mod/dungeons-and-taverns) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dungeon-and-taverns)) [v4.4.4+mod]
+- Durability Tooltip ([Modrinth](https://modrinth.com/mod/durability-tooltip) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip)) [1.1.5-neoforge-mc1.21]
+- Dynamic Surroundings ([Modrinth](https://modrinth.com/mod/dynamicsurroundingsfabric) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)) [0.4.2]
+- Easy Anvils [Forge & Fabric] ([Modrinth](https://modrinth.com/mod/easy-anvils) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/easy-anvils)) [v21.1.0-1.21.1-NeoForge]
+- Easy Magic [Forge & Fabric] ([Modrinth](https://modrinth.com/mod/easy-magic) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/easy-magic)) [v21.1.0-1.21.1-NeoForge]
+- Eating Animation [Neo/Forge] ([Modrinth](https://modrinth.com/mod/eating-animations) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge)) [6.0.1]
+- Effect Descriptions [Forge & Fabric] ([Modrinth](https://modrinth.com/mod/effect-descriptions) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/new-effect-descriptions)) [v21.1.1-1.21.1-NeoForge]
+- Enchantment Descriptions ([Modrinth](https://modrinth.com/mod/enchantment-descriptions) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)) [21.1.7]
+- Enderman Overhaul ([Modrinth](https://modrinth.com/mod/enderman-overhaul) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enderman-overhaul)) [2.0.2]
+- Enhanced Block Entities ([Modrinth](https://modrinth.com/mod/ebe) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities)) [0.10.2+1.21]
+- Entity Culling Fabric/Forge ([Modrinth](https://modrinth.com/mod/entityculling) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/entityculling)) [1.7.4]
+- Euphoria Patches ([Modrinth](https://modrinth.com/mod/euphoria-patches) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches)) [1.5.2-r5.4-neoforge]
+- Explorify – Dungeons & Structures ([Modrinth](https://modrinth.com/mod/explorify) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/explorify)) [1.6.2]
+- Exposure ([Modrinth](https://modrinth.com/mod/exposure) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/exposure)) [1.9.1]
+- ExtendedAE ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/ex-pattern-provider))
+- Extreme sound muffler - (Neo)Forge ([Modrinth](https://modrinth.com/mod/extreme_sound_muffler) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler)) [3.49-1.21.1]
+- Fancy Crops ([Modrinth](https://modrinth.com/mod/fancy-crops) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fancy-crops)) [1.1]
+- Farmer's Cutting: Biomes O' Plenty ([Modrinth](https://modrinth.com/mod/farmers-cutting-biomes-o-plenty) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-cutting-biomes-o-plenty)) [1.21-2.0.0-fabric+mod]
+- Farmer's Cutting: Oh The Biomes We've Gone ([Modrinth](https://modrinth.com/mod/farmers-cutting-oh-the-biomes-weve-gone) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-cutting-oh-the-biomes-weve-gone)) [1.21.1-2.1-neoforge+mod]
+- Farmer's Cutting: Regions Unexplored ([Modrinth](https://modrinth.com/mod/farmers-cutting-regions-unexplored) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-cutting-regions-unexplored)) [1.21-1.1a-neoforge+mod]
+- Farmer's Delight ([Modrinth](https://modrinth.com/mod/farmers-delight) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)) [1.21.1-1.2.7]
+- Farmers Structures ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-structures))
+- Farming for Blockheads ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads))
+- Fast Paintings ([Modrinth](https://modrinth.com/mod/fast-paintings) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fast-paintings)) [neoforge_1.21-1.2.15]
+- FastFurnace ([Modrinth](https://modrinth.com/mod/efficient-furnace) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)) [9.0.0]
+- FastSuite ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/fastsuite))
+- FastWorkbench ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/fastworkbench))
+- FerriteCore ((Neo)Forge) ([Modrinth](https://modrinth.com/mod/ferrite-core) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore)) [7.0.2-neoforge]
+- fix GPU memory leak[Forge/Fabric] ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak))
+- Flower Clusters ([Modrinth](https://modrinth.com/mod/flower-clusters)) [1.1.1]
+- Forgified Fabric API ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api))
+- Formations (Structure Library) ([Modrinth](https://modrinth.com/mod/formations) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/formations)) [1.0.3-neoforge-mc1.21]
+- Formations Nether ([Modrinth](https://modrinth.com/mod/formations-nether) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/formations-nether)) [1.0.5-mc1.21+]
+- FramedBlocks ([Modrinth](https://modrinth.com/mod/framedblocks) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/framedblocks)) [10.3.1]
+- Fresh Animations ([Modrinth](https://modrinth.com/mod/fresh-animations) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fresh-animations)) [1.9.3]
+- Fresh Moves ([Modrinth](https://modrinth.com/mod/tras-fresh-player) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fresh-moves)) [3.1.1]
+- Friends&Foes (Forge/NeoForge) ([Modrinth](https://modrinth.com/mod/friends-and-foes-forge) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge)) [neoforge-mc1.21.1-3.0.9]
+- FTB JEI Extras ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-jei-extras))
+- FTB Library (Forge) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge))
+- FTB Pack Companion ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-pack-companion))
+- Furnitury - Vanilla Styled Furniture ([Modrinth](https://modrinth.com/mod/furnitury) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/reeves-furniture)) [2.1704-neoforge-1.21.1]
+- GeckoLib ([Modrinth](https://modrinth.com/mod/geckolib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/geckolib)) [4.7.5.1]
+- Geophilic – Vanilla Biome Overhauls ([Modrinth](https://modrinth.com/mod/geophilic) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/geophilic)) [3.4]
+- GlitchCore ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/glitchcore))
+- Glodium ([Modrinth](https://modrinth.com/mod/glodium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/glodium)) [1.21-2.2-neoforge]
+- GroovyModLoader (GML) ([Modrinth](https://modrinth.com/mod/gml) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gml)) [6.0.2]
+- GuideME ([Modrinth](https://modrinth.com/mod/guideme) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/guideme)) [21.1.8]
+- Handcrafted ([Modrinth](https://modrinth.com/mod/handcrafted) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/handcrafted)) [4.0.3]
+- Horse Expert ([Modrinth](https://modrinth.com/mod/horse-expert) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/horse-expert)) [v21.1.0-1.21.1-NeoForge]
+- Iceberg [Neo/Forge] ([Modrinth](https://modrinth.com/mod/iceberg) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/iceberg)) [1.3.2]
+- ImmediatelyFast ([Modrinth](https://modrinth.com/mod/immediatelyfast) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast)) [1.6.5+1.21.1-neoforge]
+- Incendium ([Modrinth](https://modrinth.com/mod/incendium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/incendium)) [5.4.4]
+- Indium ([Modrinth](https://modrinth.com/mod/indium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/indium)) [1.0.35+mc1.21]
+- Inventory Essentials ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-essentials))
+- Iris Shaders ([Modrinth](https://modrinth.com/mod/iris) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/irisshaders)) [1.8.8+1.21.1-neoforge]
+- Item Descriptions ([Modrinth](https://modrinth.com/mod/item-descriptions) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/item-descriptions)) [2.1.2+1.21.1]
+- Jade Addons (Neo/Forge) ([Modrinth](https://modrinth.com/mod/jade-addons-forge) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade-addons)) [6.1.0+neoforge]
+- Jade 🔍 ([Modrinth](https://modrinth.com/mod/jade) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade)) [15.10.0+neoforge]
+- Joy of Painting ([Modrinth](https://modrinth.com/mod/joy-of-painting) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/joy-of-painting)) [1.21.1-1.0.1]
+- Just Enough Archaeology ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-archaeology))
+- Just Enough Beacons Reforged [Forge | Fabric | NeoForge] ([Modrinth](https://modrinth.com/mod/just-enough-beacons-reforged) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-beacons-reforged)) [1.3.0]
+- Just Enough Breeding (JEBr) ([Modrinth](https://modrinth.com/mod/justenoughbreeding) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding)) [1.5.0]
+- Just Enough Effect Descriptions (JEED) ([Modrinth](https://modrinth.com/mod/just-enough-effect-descriptions-jeed) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed)) [1.21-2.2.18]
+- Just Enough Items (JEI) ([Modrinth](https://modrinth.com/mod/jei) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei)) [19.21.0.247]
+- Just Enough Professions (JEP) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep))
+- Just Enough Resources (JER) ([Modrinth](https://modrinth.com/mod/just-enough-resources-jer) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)) [1.6.0.13]
+- Just Player Heads ([Modrinth](https://modrinth.com/mod/just-player-heads) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-player-heads)) [1.21.1-4.2-fabric+forge+neo]
+- Just Zoom ([Modrinth](https://modrinth.com/mod/just-zoom) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-zoom)) [2.1.0-1.21.1-neoforge]
+- Kiwi 🥝 (Neo/Forge) ([Modrinth](https://modrinth.com/mod/kiwi) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/kiwi)) [15.5.1+neoforge]
+- Konkrete [Forge/NeoForge] ([Modrinth](https://modrinth.com/mod/konkrete) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/konkrete)) [1.9.9-1.21-neoforge]
+- KubeJS ([Modrinth](https://modrinth.com/mod/kubejs) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/kubejs)) [2101.7.1-build.181+KubeJS-1.21.1]
+- Legendary Tooltips [Neo/Forge] ([Modrinth](https://modrinth.com/mod/legendary-tooltips) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips)) [1.5.5]
+- Library Ferret - NeoForge ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/library-ferret-neoforge))
+- Lithium (Fabric/NeoForge) ([Modrinth](https://modrinth.com/mod/lithium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lithium)) [mc1.21.1-0.15.0-neoforge]
+- Lithostitched ([Modrinth](https://modrinth.com/mod/lithostitched) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lithostitched)) [1.4.5-neoforge-1.21]
+- Load My F***ing Tags ([Modrinth](https://modrinth.com/mod/lmft) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lmft)) [1.0.4+1.21]
+- Lootr (Forge & NeoForge) ([Modrinth](https://modrinth.com/mod/lootr) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lootr)) [1.10.35.91]
+- MCPitanLib ([Modrinth](https://modrinth.com/mod/mcpitanlibarch) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mcpitanlibarch)) [3.2.4-neoforge]
+- Medieval Buildings - New Structures! ([Modrinth](https://modrinth.com/mod/medieval-buildings) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/medieval-buildings)) [1.1.0]
+- Medieval Buildings [End Edition] ([Modrinth](https://modrinth.com/mod/medieval-buildings-end-edition) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/medieval-buildings-end-edition)) [1.0.2]
+- Memory Settings[Neo/Forge/Fabric] ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/memory-settings))
+- MES - Moog's End Structures ([Modrinth](https://modrinth.com/mod/mes-moogs-end-structures) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures)) [1.3.5]
+- MidnightLib ([Modrinth](https://modrinth.com/mod/midnightlib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/midnightlib)) [1.6.9+1.21-neoforge]
+- MNS - Moog's Nether Structures ([Modrinth](https://modrinth.com/mod/mns-moogs-nether-structures) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures)) [1.0.8]
+- Mod Name Tooltip ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip))
+- ModernFix ([Modrinth](https://modrinth.com/mod/modernfix) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modernfix)) [5.21.0+mc1.21.1]
+- Moonlight Lib ([Modrinth](https://modrinth.com/mod/moonlight) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/selene)) [neoforge_1.21-2.18.8]
+- Motschen's Better Leaves ([Modrinth](https://modrinth.com/mod/better-leaves) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/motschens-better-leaves)) [9.1]
+- Mouse Tweaks ([Modrinth](https://modrinth.com/mod/mouse-tweaks) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)) [1.21-2.26.1-neoforge]
+- MSS - Moog's Soaring Structures ([Modrinth](https://modrinth.com/mod/mss-moogs-soaring-structures) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mss-moogs-soaring-structures)) [1.2.8-1.21]
+- MVS - Moog's Voyager Structures ([Modrinth](https://modrinth.com/mod/moogs-voyager-structures) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures)) [4.3.0-1.21]
+- My Nether's Delight ([Modrinth](https://modrinth.com/mod/my-nethers-delight) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/my-nethers-delight)) [1.7.8]
+- Mystical Oak Tree ([Modrinth](https://modrinth.com/mod/mystical-oak-tree) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mystical-oak-tree)) [neoforge_1.21-1.12]
+- MysticRift: End & Nether Ores ([Modrinth](https://modrinth.com/mod/mysticrift-end-nether-ores) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mysticrift-end-nether-ores)) [2.6.10]
+- Nature's Compass ([Modrinth](https://modrinth.com/mod/natures-compass) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/natures-compass)) [1.21.1-3.0.3-neoforge]
+- Neruina - Ticking Entity Fixer ([Modrinth](https://modrinth.com/mod/neruina) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/neruina)) [2.2.8-neoforge+1.21]
+- Nether Coords (Fabric) ([Modrinth](https://modrinth.com/mod/nether-coords) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nether-coords-fabric)) [2.0.2]
+- NetherPortalFix ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/netherportalfix))
+- NoFun DnT ([Modrinth](https://modrinth.com/mod/nofun-dnt)) [v1.0+mod]
+- Noisium ([Modrinth](https://modrinth.com/mod/noisium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/noisium)) [2.3.0+mc1.21-1.21.1]
+- Not Enough Crashes (Forge) ([Modrinth](https://modrinth.com/mod/notenoughcrashes) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)) [4.4.8+1.21.1-neoforge]
+- Nullscape ([Modrinth](https://modrinth.com/mod/nullscape) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nullscape)) [1.2.11]
+- Ocean's Delight ([Modrinth](https://modrinth.com/mod/oceans-delight) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/oceans-delight)) [1.0.3]
+- Oh The Biomes We've Gone ([Modrinth](https://modrinth.com/mod/oh-the-biomes-weve-gone) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone)) [2.3.13-NeoForge]
+- Oh The Trees You'll Grow ([Modrinth](https://modrinth.com/mod/oh-the-trees-youll-grow) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/oh-the-trees-youll-grow)) [1.21.1-5.0.10-NeoForge]
+- Paladin's Furniture ([Modrinth](https://modrinth.com/mod/paladins-furniture) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/paladins-furniture)) [1.21-v1.4.3-neoforge]
+- Pale Garden and Creaking ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/pale-garden))
+- Pam's HarvestCraft 2 - Crops ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops))
+- Pam's HarvestCraft 2 - Fantasy ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-fantasy))
+- Pam's HarvestCraft 2 - Food Core ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core))
+- Pam's HarvestCraft 2 - Food Extended ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended))
+- Pam's HarvestCraft 2 - Trees ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees))
+- Patchouli ([Modrinth](https://modrinth.com/mod/patchouli) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli)) [1.21-88-neoforge]
+- Pick Up Notifier [Forge & Fabric] ([Modrinth](https://modrinth.com/mod/pick-up-notifier) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier)) [v21.1.1-1.21.1-NeoForge]
+- Ping in Tablist ([Modrinth](https://modrinth.com/mod/ping-in-tablist) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ping-in-tablist)) [1.0.2]
+- Placebo ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/placebo))
+- Player Ladder ([Modrinth](https://modrinth.com/mod/player-ladder) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/player-ladder)) [0.7.1]
+- Polymorph (Fabric/Forge/Quilt) ([Modrinth](https://modrinth.com/mod/polymorph) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/polymorph)) [1.0.9+1.21.1]
+- Polymorphic Energistics ([Modrinth](https://modrinth.com/mod/polymorphic-energistics) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/polymorphic-energistics)) [0.4.1]
+- Powah! (Rearchitected) ([Modrinth](https://modrinth.com/mod/powah) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected)) [6.2.3-neoforge]
+- Prickle ([Modrinth](https://modrinth.com/mod/prickle) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/prickle)) [21.1.6]
+- Prism [Neo/Forge] ([Modrinth](https://modrinth.com/mod/prism-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/prism-lib)) [1.0.11]
+- Puzzles Lib ([Modrinth](https://modrinth.com/mod/puzzles-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)) [v21.1.33-1.21.1-NeoForge]
+- Quad ([Modrinth](https://modrinth.com/mod/quad) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/quad)) [1.2.9+1.21.1-Neo]
+- Redstone Sound Slider ([Modrinth](https://modrinth.com/mod/redstone-sound-slider) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/redstone-sound-slider)) [1.0.0+mc1.21-fabric]
+- Reese's Sodium Options ([Modrinth](https://modrinth.com/mod/reeses-sodium-options) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options)) [mc1.21.4-1.8.3+neoforge]
+- Regions Unexplored (forge/fabric) ([Modrinth](https://modrinth.com/mod/regions-unexplored) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored)) [N-0.5.6.1+1.21.1]
+- Resourceful Config ([Modrinth](https://modrinth.com/mod/resourceful-config) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/resourceful-config)) [3.0.9]
+- Resourceful Lib ([Modrinth](https://modrinth.com/mod/resourceful-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)) [3.0.12]
+- Rhino ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/rhino))
+- Seamless ([Modrinth](https://modrinth.com/mod/seamless) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/seamless)) [2.3.2-neoforge-1.21.1]
+- Seamless Loading Screen ([Modrinth](https://modrinth.com/mod/seamless-loading-screen) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen)) [2.2.1+1.21]
+- Searchables ([Modrinth](https://modrinth.com/mod/searchables) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/searchables)) [1.0.2]
+- Server Performance - Smooth Chunk Save[Forge/Fabric] ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save))
+- Server Pinger Fixer ([Modrinth](https://modrinth.com/mod/serverpingerfixer) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/serverpingerfixer)) [1.0.5]
+- Shulker Box Tooltip ([Modrinth](https://modrinth.com/mod/shulkerboxtooltip)) [5.1.3+1.21.1-neoforge]
+- Simple Discord Rich Presence (Forge /  Fabric) ([Modrinth](https://modrinth.com/mod/srdp) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence)) [87.0.1]
+- Simple Voice Chat ([Modrinth](https://modrinth.com/mod/simple-voice-chat) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)) [neoforge-1.21.1-2.5.29]
+- Sinytra Connector ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector))
+- Sit ([Modrinth](https://modrinth.com/mod/bl4cks-sit) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sit)) [v1.3.5]
+- Snow! Real Magic! ⛄ (Neo/Forge) ([Modrinth](https://modrinth.com/mod/snow-real-magic) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic)) [12.0.4+neoforge]
+- Snowy Tents ([Modrinth](https://modrinth.com/mod/snowy-tents) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/snowy-tents)) [1.0.0]
+- Sodium ([Modrinth](https://modrinth.com/mod/sodium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium)) [mc1.21.1-0.6.13-neoforge]
+- Sodium Extra ([Modrinth](https://modrinth.com/mod/sodium-extra) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)) [mc1.21.1-0.6.0+neoforge]
+- Sodium Leaf Culling ([Modrinth](https://modrinth.com/mod/sodiumleafculling) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium-leaf-culling)) [1.0.1]
+- Sodium Options Mod Compat ([Modrinth](https://modrinth.com/mod/sodium-options-mod-compat) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium-embeddium-options-mod-compat)) [neoforge-1.21.1-1.0.0]
+- Sodium Shadowy Path Blocks ([Modrinth](https://modrinth.com/mod/sodium-shadowy-path-blocks) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium-shadowy-path-blocks)) [4.0.0-neoforge]
+- Sodium/Embeddium Dynamic Lights ([Modrinth](https://modrinth.com/mod/sodium-dynamic-lights) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged)) [neoforge-1.21.1-1.0.10]
+- Sodium/Embeddium Extras ([Modrinth](https://modrinth.com/mod/sodium-extras) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras)) [neoforge-1.21.1-1.0.8]
+- Sodium/Embeddium Options API ([Modrinth](https://modrinth.com/mod/sodium-options-api) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium-options-api)) [neoforge-1.21.1-1.0.10]
+- Sophisticated Backpacks ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks))
+- Sophisticated Backpacks Create Integration ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks-create-integration))
+- Sophisticated Core ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core))
+- Sophisticated Storage ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage))
+- Sophisticated Storage Create Integration ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage-create-integration))
+- Sophisticated Storage in Motion ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage-in-motion))
+- Soul Fire'd ([Modrinth](https://modrinth.com/mod/soul-fire-d) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/soul-fire-d)) [5.1.6]
+- Sound Physics Remastered ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered))
+- spark ([Modrinth](https://modrinth.com/mod/spark) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark)) [1.10.124-neoforge-1.21.1]
+- Status Effect Bars ([Modrinth](https://modrinth.com/mod/status-effect-bars) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/status-effect-bars)) [1.0.6]
+- Straw Statues [Forge & Fabric] ([Modrinth](https://modrinth.com/mod/straw-statues) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/straw-statues)) [v21.1.0-1.21.1-NeoForge]
+- Structory ([Modrinth](https://modrinth.com/mod/structory) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/structory)) [1.3.10]
+- SuperMartijn642's Config Lib ([Modrinth](https://modrinth.com/mod/supermartijn642s-config-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)) [1.1.8-neoforge-mc1.21]
+- SuperMartijn642's Core Lib ([Modrinth](https://modrinth.com/mod/supermartijn642s-core-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)) [1.1.18a-neoforge-mc1.21]
+- Supplementaries ([Modrinth](https://modrinth.com/mod/supplementaries) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supplementaries)) [neoforge_1.21-3.1.7]
+- Tectonic ([Modrinth](https://modrinth.com/mod/tectonic) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tectonic)) [2.4.3]
+- TerraBlender (NeoForge) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/terrablender-neoforge))
+- Tiny Skeletons [Forge & Fabric] ([Modrinth](https://modrinth.com/mod/tiny-skeletons) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-forge)) [v21.1.0-1.21.1-NeoForge]
+- Tips ([Modrinth](https://modrinth.com/mod/tips) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tips)) [21.1.2]
+- Toast Control ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/toast-control))
+- Trash Cans ([Modrinth](https://modrinth.com/mod/trash-cans) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/trash-cans)) [1.0.18c-neoforge-mc1.21]
+- Tree Harvester ([Modrinth](https://modrinth.com/mod/tree-harvester) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tree-harvester)) [1.21.1-9.1-fabric+forge+neo]
+- TxniLib ([Modrinth](https://modrinth.com/mod/txnilib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/txnilib)) [neoforge-1.21.1-1.0.23]
+- Universal Bone Meal [Forge & Fabric] ([Modrinth](https://modrinth.com/mod/universal-bone-meal) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/universal-bone-meal-forge)) [v21.1.0-1.21.1-NeoForge]
+- Villager Names ([Modrinth](https://modrinth.com/mod/villager-names-serilum) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/villager-names)) [1.21.1-8.2-fabric+forge+neo]
+- Villages & Pillages ([Modrinth](https://modrinth.com/mod/villages-and-pillages) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/villages-and-pillages)) [neoforge-mc1.21.1-1.0.3]
+- Visual Workbench ([Modrinth](https://modrinth.com/mod/visual-workbench) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)) [v21.1.0-1.21.1-NeoForge]
+- Xaero's Minimap ([Modrinth](https://modrinth.com/mod/xaeros-minimap) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)) [25.2.0_NeoForge_1.21]
+- Xaero's World Map ([Modrinth](https://modrinth.com/mod/xaeros-world-map) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)) [1.39.4_NeoForge_1.21]
+- YetAnotherConfigLib ([Modrinth](https://modrinth.com/mod/yacl) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yacl)) [3.6.6+1.21.1-neoforge]
+- YUNG's API ([Modrinth](https://modrinth.com/mod/yungs-api) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-api-neoforge)) [1.21.1-NeoForge-5.1.4]
+- YUNG's Better Desert Temples (NeoForge) ([Modrinth](https://modrinth.com/mod/yungs-better-desert-temples) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-neoforge)) [1.21.1-NeoForge-4.1.5]
+- YUNG's Better Dungeons (NeoForge) ([Modrinth](https://modrinth.com/mod/yungs-better-dungeons) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-neoforge)) [1.21.1-NeoForge-5.1.4]
+- YUNG's Better End Island (NeoForge) ([Modrinth](https://modrinth.com/mod/yungs-better-end-island) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island-neoforge)) [1.21.1-NeoForge-3.1.2]
+- YUNG's Better Jungle Temples (NeoForge) ([Modrinth](https://modrinth.com/mod/yungs-better-jungle-temples) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples-neoforge)) [1.21.1-NeoForge-3.1.2]
+- YUNG's Better Mineshafts (NeoForge) ([Modrinth](https://modrinth.com/mod/yungs-better-mineshafts) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-neoforge)) [1.21.1-NeoForge-5.1.1]
+- YUNG's Better Nether Fortresses (NeoForge) ([Modrinth](https://modrinth.com/mod/yungs-better-nether-fortresses) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-neoforge)) [1.21.1-NeoForge-3.1.4]
+- YUNG's Better Ocean Monuments (NeoForge) ([Modrinth](https://modrinth.com/mod/yungs-better-ocean-monuments) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-neoforge)) [1.21.1-NeoForge-4.1.2]
+- YUNG's Better Witch Huts (NeoForge) ([Modrinth](https://modrinth.com/mod/yungs-better-witch-huts) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-neoforge)) [1.21.1-NeoForge-4.1.1]
+- YUNG's Bridges (NeoForge) ([Modrinth](https://modrinth.com/mod/yungs-bridges) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-neoforge)) [1.21.1-NeoForge-5.1.1]
+- YUNG's Extras (NeoForge) ([Modrinth](https://modrinth.com/mod/yungs-extras) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-extras-neoforge)) [1.21.1-NeoForge-5.1.1]
