@@ -1,4 +1,4 @@
-# CloverCraft S1 BACKPORT CLONE v1.20.1 (MC: 1.20.1)
+# CloverCraft S1 BACKPORT CLONE v1.0.3 (MC: 1.20.1)
 CloverCraft SMP S1
 ## Mods
 - [EMF] Entity Model Features [Fabric & Forge] ([Modrinth](https://modrinth.com/mod/entity-model-features) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/entity-model-features)) [2.4.1]
