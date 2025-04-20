@@ -208,6 +208,7 @@ CloverCraft SMP S1
 - Server Pinger Fixer ([Modrinth](https://modrinth.com/mod/serverpingerfixer) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/serverpingerfixer)) [1.0.4]
 - Server Pinger Fixer ([Modrinth](https://modrinth.com/mod/serverpingerfixer) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/serverpingerfixer)) [1.0.5]
 - Shield Banner Fix ([Modrinth](https://modrinth.com/mod/shield-banner-fix) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/shield-banner-fix)) [5.0.1]
+- Shulker Box Tooltip [Fabric/Forge/NeoForge] ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip))
 - Simple Discord Rich Presence (Forge /  Fabric) ([Modrinth](https://modrinth.com/mod/srdp) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence)) [4.0.3]
 - Simple Voice Chat ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat))
 - Sinytra Connector ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector))
