@@ -76,6 +76,8 @@ CloverCraft SMP S1
 - DnT Stronghold Overhaul ([Modrinth](https://modrinth.com/mod/dungeons-and-taverns-stronghold-overhaul) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dnt-stronghold-overhaul)) [1+mod]
 - Does It Tick? ([Modrinth](https://modrinth.com/mod/does-it-tick) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/does-it-tick)) [forge-1.20.1-1.1.4]
 - Durability Tooltip ([Modrinth](https://modrinth.com/mod/durability-tooltip) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip)) [1.1.5-forge-mc1.20]
+- Dyenamics ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/dyenamics))
+- Dyenamics and Friends ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/dyenamicsandfriends))
 - Easy Anvils [Forge & Fabric] ([Modrinth](https://modrinth.com/mod/easy-anvils) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/easy-anvils)) [v8.0.2-1.20.1-Forge]
 - Easy Magic [Forge & Fabric] ([Modrinth](https://modrinth.com/mod/easy-magic) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/easy-magic)) [v8.0.1-1.20.1-Forge]
 - Eating Animation [Neo/Forge] ([Modrinth](https://modrinth.com/mod/eating-animations) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge)) [5.1.0]
@@ -103,6 +105,7 @@ CloverCraft SMP S1
 - FastSuite ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/fastsuite))
 - FastWorkbench ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/fastworkbench))
 - FerriteCore ((Neo)Forge) ([Modrinth](https://modrinth.com/mod/ferrite-core) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore)) [6.0.1]
+- Fish of Thieves ([Modrinth](https://modrinth.com/mod/fish-of-thieves) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fish-of-thieves)) [3.0.9-forge]
 - fix GPU memory leak[Forge/Fabric] ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak))
 - Flower Clusters ([Modrinth](https://modrinth.com/mod/flower-clusters)) [1.1.1]
 - Forgified Fabric API ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api))
@@ -125,8 +128,6 @@ CloverCraft SMP S1
 - ImmediatelyFast ([Modrinth](https://modrinth.com/mod/immediatelyfast) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast)) [1.5.0+1.20.4-forge]
 - Incendium ([Modrinth](https://modrinth.com/mod/incendium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/incendium)) [5.3.5]
 - Item Descriptions ([Modrinth](https://modrinth.com/mod/item-descriptions) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/item-descriptions)) [2.1.2+1.20.1]
-- Jade Addons (Neo/Forge) ([Modrinth](https://modrinth.com/mod/jade-addons-forge) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade-addons)) [5.3.1+forge]
-- Jade 🔍 ([Modrinth](https://modrinth.com/mod/jade) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade)) [11.13.1+forge]
 - Just Enough Archaeology ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-archaeology))
 - Just Enough Beacons Reforged [Forge | Fabric | NeoForge] ([Modrinth](https://modrinth.com/mod/just-enough-beacons-reforged) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-beacons-reforged)) [1.2.0]
 - Just Enough Breeding (JEBr) ([Modrinth](https://modrinth.com/mod/justenoughbreeding) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding)) [1.5.0]
@@ -161,13 +162,12 @@ CloverCraft SMP S1
 - MSS - Moog's Soaring Structures ([Modrinth](https://modrinth.com/mod/mss-moogs-soaring-structures) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mss-moogs-soaring-structures)) [1.2.7-1.20-forge]
 - MVS - Moog's Voyager Structures ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures))
 - My Nether's Delight ([Modrinth](https://modrinth.com/mod/my-nethers-delight) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/my-nethers-delight)) [1.20.1-1.7.6]
-- Mystical Oak Tree ([Modrinth](https://modrinth.com/mod/mystical-oak-tree) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mystical-oak-tree)) [1.20-1.11]
 - MysticRift: End & Nether Ores ([Modrinth](https://modrinth.com/mod/mysticrift-end-nether-ores) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mysticrift-end-nether-ores)) [2.5.9]
 - Naturalist ([Modrinth](https://modrinth.com/mod/naturalist) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/naturalist)) [5.0pre2]
 - Nature's Compass ([Modrinth](https://modrinth.com/mod/natures-compass) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/natures-compass)) [1.20.1-1.11.2-forge]
 - Neruina - Ticking Entity Fixer ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/neruina))
 - Nether Coords ([Modrinth](https://modrinth.com/mod/nether-coords) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nether-coords-fabric)) [2.0.1]
-- Nether Coords (Fabric) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/nether-coords-fabric))
+- Nether Coords (Fabric) ([Modrinth](https://modrinth.com/mod/nether-coords) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nether-coords-fabric)) [2.0.2]
 - NetherPortalFix ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/netherportalfix))
 - Noisium ([Modrinth](https://modrinth.com/mod/noisium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/noisium)) [2.3.0+mc1.20-1.20.1]
 - Not Enough Crashes (Forge) ([Modrinth](https://modrinth.com/mod/notenoughcrashes) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)) [4.4.7+1.20.1-forge]
@@ -196,7 +196,7 @@ CloverCraft SMP S1
 - Quark Delight ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/quark-delight))
 - Quark Oddities ([Modrinth](https://modrinth.com/mod/quark-oddities) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)) [1.20.1]
 - Redstone Sound Slider ([Modrinth](https://modrinth.com/mod/redstone-sound-slider) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/redstone-sound-slider)) [1.0.0+mc1.20.1-fabric]
-- Redstone Sound Slider ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/redstone-sound-slider))
+- Redstone Sound Slider ([Modrinth](https://modrinth.com/mod/redstone-sound-slider) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/redstone-sound-slider)) [1.0.0+mc1.21-fabric]
 - Regions Unexplored (forge/fabric) ([Modrinth](https://modrinth.com/mod/regions-unexplored) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored)) [F-0.5.6+1.20.1]
 - Resourceful Config ([Modrinth](https://modrinth.com/mod/resourceful-config) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/resourceful-config)) [2.1.3]
 - Resourceful Lib ([Modrinth](https://modrinth.com/mod/resourceful-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)) [2.1.29]
@@ -206,8 +206,8 @@ CloverCraft SMP S1
 - Searchables ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/searchables))
 - Server Performance - Smooth Chunk Save[Forge/Fabric] ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save))
 - Server Pinger Fixer ([Modrinth](https://modrinth.com/mod/serverpingerfixer) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/serverpingerfixer)) [1.0.4]
-- Server Pinger Fixer ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/serverpingerfixer))
-- Shulker Box Tooltip ([Modrinth](https://modrinth.com/mod/shulkerboxtooltip)) [4.0.4+1.20.1-forge]
+- Server Pinger Fixer ([Modrinth](https://modrinth.com/mod/serverpingerfixer) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/serverpingerfixer)) [1.0.5]
+- Shield Banner Fix ([Modrinth](https://modrinth.com/mod/shield-banner-fix) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/shield-banner-fix)) [5.0.1]
 - Simple Discord Rich Presence (Forge /  Fabric) ([Modrinth](https://modrinth.com/mod/srdp) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence)) [4.0.3]
 - Simple Voice Chat ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat))
 - Sinytra Connector ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector))
@@ -223,7 +223,7 @@ CloverCraft SMP S1
 - Sound Physics Remastered ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered))
 - spark ([Modrinth](https://modrinth.com/mod/spark) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark)) [1.10.53-forge]
 - Status Effect Bars ([Modrinth](https://modrinth.com/mod/status-effect-bars) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/status-effect-bars)) [1.0.3]
-- Status Effect Bars ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/status-effect-bars))
+- Status Effect Bars ([Modrinth](https://modrinth.com/mod/status-effect-bars) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/status-effect-bars)) [1.0.6]
 - Straw Statues [Forge & Fabric] ([Modrinth](https://modrinth.com/mod/straw-statues) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/straw-statues)) [v8.0.3-1.20.1-Forge]
 - Structory ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/structory))
 - SuperMartijn642's Config Lib ([Modrinth](https://modrinth.com/mod/supermartijn642s-config-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)) [1.1.8-forge-mc1.20]
@@ -231,7 +231,9 @@ CloverCraft SMP S1
 - Supplementaries ([Modrinth](https://modrinth.com/mod/supplementaries) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supplementaries)) [1.20-2.8.0]
 - Tectonic ([Modrinth](https://modrinth.com/mod/tectonic) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tectonic)) [2.4.1]
 - TerraBlender (Forge) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/terrablender))
+- The One Probe ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-one-probe))
 - Thigh highs etc. ([Modrinth](https://modrinth.com/mod/thigh-highs-etc) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thigh-highs-etc)) [1.0.4]
+- Tide ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/tide))
 - Tiny Skeletons [Forge & Fabric] ([Modrinth](https://modrinth.com/mod/tiny-skeletons) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-forge)) [v8.0.1-1.20.1-Forge]
 - Tips ([Modrinth](https://modrinth.com/mod/tips) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tips)) [12.1.8]
 - Toast Control ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/toast-control))
