@@ -1,4 +1,4 @@
-# CloverCraft S1 BACKPORT CLONE v1.0.3 (MC: 1.20.1)
+# CloverCraft S1 BACKPORT CLONE v1.0.4 (MC: 1.20.1)
 CloverCraft SMP S1
 ## Mods
 - [EMF] Entity Model Features [Fabric & Forge] ([Modrinth](https://modrinth.com/mod/entity-model-features) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/entity-model-features)) [2.4.1]
@@ -46,6 +46,7 @@ CloverCraft SMP S1
 - Configured ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/configured))
 - Connectivity ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/connectivity))
 - Connector Extras ([Modrinth](https://modrinth.com/mod/connector-extras) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connector-extras)) [1.12.1+1.21.1]
+- Controllable ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/controllable))
 - Controlling ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/controlling))
 - CorgiLib ([Modrinth](https://modrinth.com/mod/corgilib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/corgilib)) [1.20.1-4.0.3.3-forge]
 - Cosmetic Armor Reworked ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked))
@@ -93,6 +94,7 @@ CloverCraft SMP S1
 - ExtendedAE ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/ex-pattern-provider))
 - Extreme sound muffler - (Neo)Forge ([Modrinth](https://modrinth.com/mod/extreme_sound_muffler) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler)) [3.49-1.20.1]
 - Fancy Crops ([Modrinth](https://modrinth.com/mod/fancy-crops) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fancy-crops)) [1.1]
+- FancyMenu ([Modrinth](https://modrinth.com/mod/fancymenu) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fancymenu)) [3.5.0-1.20.1-forge]
 - Farmer's Cutting: Biomes O' Plenty ([Modrinth](https://modrinth.com/mod/farmers-cutting-biomes-o-plenty) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-cutting-biomes-o-plenty)) [1.1.0-1.20.1+mod]
 - Farmer's Cutting: Oh The Biomes We've Gone ([Modrinth](https://modrinth.com/mod/farmers-cutting-oh-the-biomes-weve-gone) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-cutting-oh-the-biomes-weve-gone)) [1.20.1-1.1-forge+mod]
 - Farmer's Cutting: Quark ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-cutting-quark))
@@ -105,14 +107,17 @@ CloverCraft SMP S1
 - FastSuite ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/fastsuite))
 - FastWorkbench ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/fastworkbench))
 - FerriteCore ((Neo)Forge) ([Modrinth](https://modrinth.com/mod/ferrite-core) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore)) [6.0.1]
-- Fish of Thieves ([Modrinth](https://modrinth.com/mod/fish-of-thieves) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fish-of-thieves)) [3.0.9-forge]
+- Fish of Thieves ([Modrinth](https://modrinth.com/mod/fish-of-thieves) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fish-of-thieves)) [3.0.10-forge]
+- Fishing Real ([Modrinth](https://modrinth.com/mod/fishing-real) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fishing-real)) [1.20.1-1.7.2]
 - fix GPU memory leak[Forge/Fabric] ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak))
 - Flower Clusters ([Modrinth](https://modrinth.com/mod/flower-clusters)) [1.1.1]
 - Forgified Fabric API ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api))
 - Formations (Structure Library) ([Modrinth](https://modrinth.com/mod/formations) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/formations)) [1.0.3-forge-mc1.20.2]
 - Formations Nether ([Modrinth](https://modrinth.com/mod/formations-nether) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/formations-nether)) [1.0.5]
+- Framework ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/framework))
 - Fresh Animations ([Modrinth](https://modrinth.com/mod/fresh-animations) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fresh-animations)) [1.9.3]
 - Fresh Moves ([Modrinth](https://modrinth.com/mod/tras-fresh-player) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fresh-moves)) [3.1.1]
+- Friendly Griefing ([Modrinth](https://modrinth.com/mod/friendly-griefing) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/friendly-griefing)) [1.20-1.0.2]
 - Friends&Foes (Forge/NeoForge) ([Modrinth](https://modrinth.com/mod/friends-and-foes-forge) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge)) [forge-mc1.20.1-3.0.9]
 - FTB Library (Forge) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge))
 - FTB Pack Companion ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-pack-companion))
@@ -128,6 +133,7 @@ CloverCraft SMP S1
 - ImmediatelyFast ([Modrinth](https://modrinth.com/mod/immediatelyfast) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast)) [1.5.0+1.20.4-forge]
 - Incendium ([Modrinth](https://modrinth.com/mod/incendium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/incendium)) [5.3.5]
 - Item Descriptions ([Modrinth](https://modrinth.com/mod/item-descriptions) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/item-descriptions)) [2.1.2+1.20.1]
+- JEI Integration ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei-integration))
 - Just Enough Archaeology ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-archaeology))
 - Just Enough Beacons Reforged [Forge | Fabric | NeoForge] ([Modrinth](https://modrinth.com/mod/just-enough-beacons-reforged) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-beacons-reforged)) [1.2.0]
 - Just Enough Breeding (JEBr) ([Modrinth](https://modrinth.com/mod/justenoughbreeding) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding)) [1.5.0]
@@ -149,12 +155,12 @@ CloverCraft SMP S1
 - MCPitanLib ([Modrinth](https://modrinth.com/mod/mcpitanlibarch) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mcpitanlibarch)) [3.2.4-forge]
 - Medieval Buildings - New Structures! ([Modrinth](https://modrinth.com/mod/medieval-buildings) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/medieval-buildings)) [1.1.1]
 - Medieval Buildings [End Edition] ([Modrinth](https://modrinth.com/mod/medieval-buildings-end-edition) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/medieval-buildings-end-edition)) [1.0.1]
+- Melody ([Modrinth](https://modrinth.com/mod/melody) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/melody)) [1.0.3-1.20.1-1.20.4-forge]
 - Memory Leak Fix ([Modrinth](https://modrinth.com/mod/memoryleakfix) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/project-1029454)) [v1.1.5]
 - Memory Settings[Neo/Forge/Fabric] ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/memory-settings))
 - MES - Moog's End Structures ([Modrinth](https://modrinth.com/mod/mes-moogs-end-structures) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures)) [1.3.4-1.20-forge]
 - MidnightLib ([Modrinth](https://modrinth.com/mod/midnightlib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/midnightlib)) [1.4.2-forge]
 - MNS - Moog's Nether Structures ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures))
-- Mod Name Tooltip ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip))
 - ModernFix ([Modrinth](https://modrinth.com/mod/modernfix) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modernfix)) [5.21.0+mc1.20.1]
 - Moonlight Lib ([Modrinth](https://modrinth.com/mod/moonlight) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/selene)) [forge_1.20-2.13.82]
 - Motschen's Better Leaves ([Modrinth](https://modrinth.com/mod/better-leaves) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/motschens-better-leaves)) [9.1]
@@ -168,6 +174,7 @@ CloverCraft SMP S1
 - Neruina - Ticking Entity Fixer ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/neruina))
 - Nether Coords ([Modrinth](https://modrinth.com/mod/nether-coords) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nether-coords-fabric)) [2.0.1]
 - Nether Coords (Fabric) ([Modrinth](https://modrinth.com/mod/nether-coords) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nether-coords-fabric)) [2.0.2]
+- Nether Depths Upgrade ([Modrinth](https://modrinth.com/mod/nether-depths-upgrade) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nether-depths-upgrade)) [3.1.5-1.20]
 - NetherPortalFix ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/netherportalfix))
 - Noisium ([Modrinth](https://modrinth.com/mod/noisium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/noisium)) [2.3.0+mc1.20-1.20.1]
 - Not Enough Crashes (Forge) ([Modrinth](https://modrinth.com/mod/notenoughcrashes) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)) [4.4.7+1.20.1-forge]
@@ -223,6 +230,7 @@ CloverCraft SMP S1
 - Soul fire'd ([Modrinth](https://modrinth.com/mod/soul-fire-d) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/soul-fire-d)) [4.0.11]
 - Sound Physics Remastered ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered))
 - spark ([Modrinth](https://modrinth.com/mod/spark) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark)) [1.10.53-forge]
+- Sparse Structures Reforged ([Modrinth](https://modrinth.com/mod/sparsestructuresreforged) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ssr)) [0.0.1]
 - Status Effect Bars ([Modrinth](https://modrinth.com/mod/status-effect-bars) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/status-effect-bars)) [1.0.3]
 - Status Effect Bars ([Modrinth](https://modrinth.com/mod/status-effect-bars) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/status-effect-bars)) [1.0.6]
 - Straw Statues [Forge & Fabric] ([Modrinth](https://modrinth.com/mod/straw-statues) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/straw-statues)) [v8.0.3-1.20.1-Forge]
