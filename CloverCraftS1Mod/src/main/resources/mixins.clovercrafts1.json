@@ -1,0 +1,17 @@
+{
+	"required": true,
+	"package": "me.lauriichan.clovercrafts1.mixin.inject",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"common.NametagPlayerMixin"
+	],
+	"client": [
+		"client.PlayerInfoMixin",
+		"client.RemotePlayerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+    "minVersion": "0.8",
+	"refmap": "mixins.clovercrafts1.refmap.json"
+}

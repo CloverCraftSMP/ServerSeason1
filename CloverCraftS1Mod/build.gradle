@@ -20,6 +20,9 @@ group = mod_group_id
 
 repositories {
     mavenLocal()
+    maven {
+        url = "https://maven.theillusivec4.top/"
+    }
 }
 
 base {
@@ -40,6 +43,7 @@ legacyForge {
 
     // This line is optional. Access Transformers are automatically detected
     // accessTransformers = project.files('src/main/resources/META-INF/accesstransformer.cfg')
+    validateAccessTransformers = true
 
     // Default run configurations.
     // These can be tweaked, removed, or duplicated as needed.
@@ -141,6 +145,8 @@ dependencies {
     // For more info:
     // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
+    runtimeOnly "top.theillusivec4.curios:curios-forge:5.14.1+1.20.1"
+    compileOnly "top.theillusivec4.curios:curios-forge:5.14.1+1.20.1:api"
     
     implementation "me.lauriichan.laylib:localization:0.4.1-SNAPSHOT"
     implementation "me.lauriichan.laylib:reflection:0.4.1-SNAPSHOT"
@@ -158,8 +164,8 @@ dependencies {
 // Uncomment the lines below if you wish to configure mixin. The mixin file should be named modid.mixins.json.
 
 mixin {
-    add sourceSets.main, "${mod_id}.refmap.json"
-    config "${mod_id}.mixins.json"
+    add sourceSets.main, "mixins.${mod_id}.refmap.json"
+    config "mixins.${mod_id}.json"
 }
 
 dependencies {
@@ -168,7 +174,7 @@ dependencies {
 
 jar {
     manifest.attributes([
-            "MixinConfigs": "${mod_id}.mixins.json"
+            "MixinConfigs": "mixins.${mod_id}.json"
     ])
 }
 
