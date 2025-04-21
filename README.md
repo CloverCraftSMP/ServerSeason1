@@ -32,6 +32,7 @@ CloverCraft SMP S1
 - CERBON's Better Beacons [Forge | Fabric | NeoForge] ([Modrinth](https://modrinth.com/mod/cerbons-better-beacons) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cerbons-better-beacons)) [2.0.0]
 - Chef's Delight [Forge] - Farmer's Delight Add-On ([Modrinth](https://modrinth.com/mod/chefs-delight) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-forge)) [1.0.3-forge-1.20.1]
 - Chicken Chunks 1.8.+ ([Modrinth](https://modrinth.com/mod/chicken-chunks) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8)) [2.10.0.100]
+- Chimes ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/chimes))
 - Chipped ([Modrinth](https://modrinth.com/mod/chipped) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chipped)) [3.0.7]
 - Chunk Activity Tracker ([Modrinth](https://modrinth.com/mod/chunk-activity-tracker) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunk-activity-tracker)) [forge-1.20.1-1.0.1]
 - Chunk Sending[Forge/Fabric] ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric))
@@ -44,6 +45,7 @@ CloverCraft SMP S1
 - Collective ([Modrinth](https://modrinth.com/mod/collective) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/collective)) [1.20.1-8.3-fabric+forge+neo]
 - Comforts (Fabric/Forge/Quilt) ([Modrinth](https://modrinth.com/mod/comforts) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/comforts)) [6.4.0+1.20.1]
 - Configured ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/configured))
+- Configured Defaults [Forge & Fabric] ([Modrinth](https://modrinth.com/mod/configured-defaults) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/configured-defaults)) [v8.0.4-1.20.1-Forge]
 - Connectivity ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/connectivity))
 - Connector Extras ([Modrinth](https://modrinth.com/mod/connector-extras) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connector-extras)) [1.12.1+1.21.1]
 - Controllable ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/controllable))
@@ -88,6 +90,7 @@ CloverCraft SMP S1
 - Enderman Overhaul ([Modrinth](https://modrinth.com/mod/enderman-overhaul) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enderman-overhaul)) [1.0.4]
 - Entity Culling Fabric/Forge ([Modrinth](https://modrinth.com/mod/entityculling) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/entityculling)) [1.7.4]
 - Etcetera ([Modrinth](https://modrinth.com/mod/etcetera) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/etcetera)) [1.1.3]
+- Etched ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/etched))
 - Euphoria Patches ([Modrinth](https://modrinth.com/mod/euphoria-patches) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches)) [1.5.2-r5.4-forge]
 - Explorify – Dungeons & Structures ([Modrinth](https://modrinth.com/mod/explorify) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/explorify)) [1.6.2]
 - Exposure ([Modrinth](https://modrinth.com/mod/exposure) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/exposure)) [1.7.13]
