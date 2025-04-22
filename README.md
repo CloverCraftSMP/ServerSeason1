@@ -78,6 +78,7 @@ CloverCraft SMP S1
 - DnT Pillager Outpost Overhaul ([Modrinth](https://modrinth.com/mod/dungeons-and-taverns-pillager-outpost-overhaul) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dnt-pillager-outpost-overhaul)) [1.1+mod]
 - DnT Stronghold Overhaul ([Modrinth](https://modrinth.com/mod/dungeons-and-taverns-stronghold-overhaul) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dnt-stronghold-overhaul)) [1+mod]
 - Does It Tick? ([Modrinth](https://modrinth.com/mod/does-it-tick) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/does-it-tick)) [forge-1.20.1-1.1.4]
+- Drippy Loading Screen ([Modrinth](https://modrinth.com/mod/drippy-loading-screen) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen)) [3.0.12-1.20.1-forge]
 - Durability Tooltip ([Modrinth](https://modrinth.com/mod/durability-tooltip) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip)) [1.1.5-forge-mc1.20]
 - Dyenamics ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/dyenamics))
 - Dyenamics and Friends ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/dyenamicsandfriends))
