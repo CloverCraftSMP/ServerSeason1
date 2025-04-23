@@ -28,6 +28,7 @@ CloverCraft SMP S1
 - Biomes O' Plenty ([Modrinth](https://modrinth.com/mod/biomes-o-plenty) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)) [18.0.0.598]
 - Blahaj (Fabric) ([Modrinth](https://modrinth.com/mod/blahaj_fabric) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/blahaj-fabric)) [0.3.2]
 - Bookshelf ([Modrinth](https://modrinth.com/mod/bookshelf-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bookshelf)) [20.2.13]
+- Carbon Config ([Modrinth](https://modrinth.com/mod/carbon-config) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/carbon-config)) [1.2.7]
 - CERBON's API [Forge | Fabric | NeoForge] ([Modrinth](https://modrinth.com/mod/cerbons-api) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cerbons-api)) [1.1.0]
 - CERBON's Better Beacons [Forge | Fabric | NeoForge] ([Modrinth](https://modrinth.com/mod/cerbons-better-beacons) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cerbons-better-beacons)) [2.0.0]
 - Chef's Delight [Forge] - Farmer's Delight Add-On ([Modrinth](https://modrinth.com/mod/chefs-delight) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-forge)) [1.0.3-forge-1.20.1]
@@ -36,7 +37,7 @@ CloverCraft SMP S1
 - Chipped ([Modrinth](https://modrinth.com/mod/chipped) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chipped)) [3.0.7]
 - Chunk Activity Tracker ([Modrinth](https://modrinth.com/mod/chunk-activity-tracker) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunk-activity-tracker)) [forge-1.20.1-1.0.1]
 - Chunk Sending[Forge/Fabric] ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric))
-- Chunky (Forge/NeoForge) ([Modrinth](https://modrinth.com/mod/chunky) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge)) [1.3.146]
+- Chunk-Pregenerator ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator))
 - Clickable advancements[Forge/Fabric] ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements))
 - Cloth Config API (Fabric/Forge/NeoForge) ([Modrinth](https://modrinth.com/mod/cloth-config) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config)) [11.1.136+forge]
 - Clumps ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/clumps))
@@ -207,7 +208,6 @@ CloverCraft SMP S1
 - Quark Delight ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/quark-delight))
 - Quark Oddities ([Modrinth](https://modrinth.com/mod/quark-oddities) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)) [1.20.1]
 - Redstone Sound Slider ([Modrinth](https://modrinth.com/mod/redstone-sound-slider) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/redstone-sound-slider)) [1.0.0+mc1.20.1-fabric]
-- Redstone Sound Slider ([Modrinth](https://modrinth.com/mod/redstone-sound-slider) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/redstone-sound-slider)) [1.0.0+mc1.21-fabric]
 - Regions Unexplored (forge/fabric) ([Modrinth](https://modrinth.com/mod/regions-unexplored) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored)) [F-0.5.6+1.20.1]
 - Resourceful Config ([Modrinth](https://modrinth.com/mod/resourceful-config) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/resourceful-config)) [2.1.3]
 - Resourceful Lib ([Modrinth](https://modrinth.com/mod/resourceful-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)) [2.1.29]
@@ -217,7 +217,6 @@ CloverCraft SMP S1
 - Searchables ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/searchables))
 - Server Performance - Smooth Chunk Save[Forge/Fabric] ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save))
 - Server Pinger Fixer ([Modrinth](https://modrinth.com/mod/serverpingerfixer) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/serverpingerfixer)) [1.0.4]
-- Server Pinger Fixer ([Modrinth](https://modrinth.com/mod/serverpingerfixer) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/serverpingerfixer)) [1.0.5]
 - Shield Banner Fix ([Modrinth](https://modrinth.com/mod/shield-banner-fix) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/shield-banner-fix)) [5.0.1]
 - Shulker Box Tooltip [Fabric/Forge/NeoForge] ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip))
 - Simple Discord Rich Presence (Forge /  Fabric) ([Modrinth](https://modrinth.com/mod/srdp) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence)) [4.0.3]
@@ -236,7 +235,6 @@ CloverCraft SMP S1
 - spark ([Modrinth](https://modrinth.com/mod/spark) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark)) [1.10.53-forge]
 - Sparse Structures Reforged ([Modrinth](https://modrinth.com/mod/sparsestructuresreforged) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ssr)) [0.0.1]
 - Status Effect Bars ([Modrinth](https://modrinth.com/mod/status-effect-bars) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/status-effect-bars)) [1.0.3]
-- Status Effect Bars ([Modrinth](https://modrinth.com/mod/status-effect-bars) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/status-effect-bars)) [1.0.6]
 - Straw Statues [Forge & Fabric] ([Modrinth](https://modrinth.com/mod/straw-statues) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/straw-statues)) [v8.0.3-1.20.1-Forge]
 - Structory ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/structory))
 - SuperMartijn642's Config Lib ([Modrinth](https://modrinth.com/mod/supermartijn642s-config-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)) [1.1.8-forge-mc1.20]
