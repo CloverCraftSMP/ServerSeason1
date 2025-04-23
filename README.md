@@ -187,7 +187,6 @@ Other than that there are just QoL mods in the pack and food as well as decorati
 - Nature's Compass ([Modrinth](https://modrinth.com/mod/natures-compass) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/natures-compass)) [1.20.1-1.11.2-forge]
 - Neruina - Ticking Entity Fixer ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/neruina))
 - Nether Coords ([Modrinth](https://modrinth.com/mod/nether-coords) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nether-coords-fabric)) [2.0.1]
-- Nether Coords ([Modrinth](https://modrinth.com/mod/nether-coords) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nether-coords-fabric)) [2.0.2]
 - Nether Depths Upgrade ([Modrinth](https://modrinth.com/mod/nether-depths-upgrade) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nether-depths-upgrade)) [3.1.5-1.20]
 - NetherPortalFix ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/netherportalfix))
 - Noisium ([Modrinth](https://modrinth.com/mod/noisium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/noisium)) [2.3.0+mc1.20-1.20.1]
