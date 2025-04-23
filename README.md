@@ -1,5 +1,12 @@
-# CloverCraft S1 BACKPORT CLONE v1.0.4 (MC: 1.20.1)
-CloverCraft SMP S1
+# CloverCraft S1 v1.0.7 (MC: 1.20.1)
+This modpack has been created for the first season of CloverCraft.
+
+It contains overhauled world generation using Biomes O' Plenty, Regions Unexplored and Oh the Biomes you've gone as well as a lot structures added through various mods.
+The main focus of the pack was to run on lower end hardware while having Create installed therefore the pack also contains quite a lot of optimization mods.
+However its' not just create but instead there are also a couple addons for it installed as well as AE2 and Powah (kind of required for AE2).
+
+Other than that there are just QoL mods in the pack and food as well as decoration adding mods.
+
 ## Mods
 - [EMF] Entity Model Features [Fabric & Forge] ([Modrinth](https://modrinth.com/mod/entity-model-features) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/entity-model-features)) [2.4.1]
 - [ETF] Entity Texture Features - [Fabric & Forge] ([Modrinth](https://modrinth.com/mod/entitytexturefeatures) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)) [6.2.9]
