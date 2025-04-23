@@ -1,5 +1,15 @@
 # CloverCraft (Season 1) v1.0.0 (MC: 1.20.1)
+
+This modpack has been created for the first season of CloverCraft.
+ 
+It contains overhauled world generation using Biomes O' Plenty, Regions Unexplored and Oh the Biomes you've gone as well as a lot structures added through various mods.
+The main focus of the pack was to run on lower end hardware while having Create installed therefore the pack also contains quite a lot of optimization mods.
+However its' not just create but instead there are also a couple addons for it installed as well as AE2 and Powah (kind of required for AE2).
+ 
+Other than that there are just QoL mods in the pack and food as well as decoration adding mods.
+
 ## Mods
+- CloverCraftS1Mod (our custom mod)
 - [EMF] Entity Model Features ([Modrinth](https://modrinth.com/mod/entity-model-features) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/entity-model-features)) [2.4.1]
 - [ETF] Entity Texture Features ([Modrinth](https://modrinth.com/mod/entitytexturefeatures) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)) [6.2.9]
 - Advancement Plaques ([Modrinth](https://modrinth.com/mod/advancement-plaques) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)) [1.6.9]
@@ -39,7 +49,6 @@
 - Chunk-Pregenerator ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator))
 - Clickable advancements[Forge/Fabric] ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements))
 - Cloth Config API ([Modrinth](https://modrinth.com/mod/cloth-config) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config)) [11.1.136+forge]
-- clovercrafts1-1.0.0.jar
 - Clumps ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/clumps))
 - Cobweb ([Modrinth](https://modrinth.com/mod/cobweb) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cobweb)) [1.0.1]
 - CodeChicken Lib ([Modrinth](https://modrinth.com/mod/codechicken-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)) [4.4.0.516]
