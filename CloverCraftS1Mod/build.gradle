@@ -23,6 +23,9 @@ repositories {
     maven {
         url = "https://maven.theillusivec4.top/"
     }
+    flatDir {
+    	dirs "libs"
+    }
 }
 
 base {
@@ -147,6 +150,9 @@ dependencies {
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
     runtimeOnly "top.theillusivec4.curios:curios-forge:5.14.1+1.20.1"
     compileOnly "top.theillusivec4.curios:curios-forge:5.14.1+1.20.1:api"
+    
+    modCompileOnly "traben.entity_model_features:entity_model_features:2.4.1"
+    modCompileOnly "traben.entity_model_features:entity_texture_features:6.2.9"
     
     implementation "me.lauriichan.laylib:localization:0.4.1-SNAPSHOT"
     implementation "me.lauriichan.laylib:reflection:0.4.1-SNAPSHOT"
