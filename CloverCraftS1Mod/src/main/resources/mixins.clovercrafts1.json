@@ -4,12 +4,13 @@
 	"compatibilityLevel": "JAVA_17",
 	"plugin": "me.lauriichan.clovercrafts1.mixin.plugin.CloverCraftMixinPlugin",
 	"mixins": [
+		"common.compat.crittersandcompanions.PlayerHandlerMixin",
 		"common.NametagPlayerMixin"
 	],
 	"client": [
+		"client.compat.emf.EMFPlayerModelFixMixin",
 		"client.PlayerInfoMixin",
 		"client.RemotePlayerMixin",
-		"client.compat.emf.EMFPlayerModelFixMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

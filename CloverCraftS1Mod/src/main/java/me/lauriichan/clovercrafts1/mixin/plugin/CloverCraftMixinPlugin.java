@@ -18,23 +18,38 @@ public class CloverCraftMixinPlugin implements IMixinConfigPlugin {
 
     private static Object2ReferenceArrayMap<String, Supplier<Boolean>> buildConditions() {
         Object2ReferenceArrayMap<String, Supplier<Boolean>> map = new Object2ReferenceArrayMap<>();
-        map.put("client.compat.emf.EMFPlayerModelFixMixin", Conditions.modLoaded("entity_model_features"));
+        map.put("emf", Conditions.modLoaded("entity_model_features"));
+        map.put("crittersandcompanions", Conditions.modLoaded("crittersandcompanions"));
         return map;
     }
 
     private final int baseLength;
 
     public CloverCraftMixinPlugin() {
-        this.baseLength = CloverCraftMixinPlugin.class.getPackageName().length() + 1;
+        this.baseLength = CloverCraftMixinPlugin.class.getPackageName().length() + 8;
     }
 
     @Override
     public boolean shouldApplyMixin(String targetClassName, String mixinClassName) {
-        Supplier<Boolean> condition = CONDITIONS.get(mixinClassName.substring(baseLength));
-        if (condition == null) {
+        mixinClassName = mixinClassName.substring(baseLength);
+        if (!mixinClassName.startsWith("compat.")) {
             return true;
         }
-        return condition.get();
+        mixinClassName = mixinClassName.substring(7);
+        int nextDot = mixinClassName.indexOf('.');
+        if (nextDot == -1) {
+            return true;
+        }
+        String patchId = mixinClassName.substring(0, nextDot);
+        Supplier<Boolean> supplier = CONDITIONS.get(patchId);
+        if (supplier == null) {
+            supplier = CONDITIONS.get(mixinClassName);
+            if (supplier == null) {
+                return true;
+            }
+            return supplier.get();
+        }
+        return supplier.get();
     }
 
     @Override
