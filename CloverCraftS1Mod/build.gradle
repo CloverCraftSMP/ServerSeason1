@@ -154,6 +154,7 @@ dependencies {
     modCompileOnly "com.github.eterdelta:crittersandcompanions:2.2.1"
     modCompileOnly "traben.entity_model_features:entity_model_features:2.4.1"
     modCompileOnly "traben.entity_model_features:entity_texture_features:6.2.9"
+    modCompileOnly "appeng:appliedenergistics2:15.3.4"
     
     implementation "me.lauriichan.laylib:localization:0.4.1-SNAPSHOT"
     implementation "me.lauriichan.laylib:reflection:0.4.1-SNAPSHOT"

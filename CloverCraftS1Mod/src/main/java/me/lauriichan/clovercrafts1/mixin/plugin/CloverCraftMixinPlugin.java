@@ -20,6 +20,7 @@ public class CloverCraftMixinPlugin implements IMixinConfigPlugin {
         Object2ReferenceArrayMap<String, Supplier<Boolean>> map = new Object2ReferenceArrayMap<>();
         map.put("emf", Conditions.modLoaded("entity_model_features"));
         map.put("crittersandcompanions", Conditions.modLoaded("crittersandcompanions"));
+        map.put("ae2", Conditions.modLoaded("ae2"));
         return map;
     }
 

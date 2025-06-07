@@ -8,6 +8,7 @@
 		"common.NametagPlayerMixin"
 	],
 	"client": [
+		"client.compat.ae2.SpatialStorageCellItemMixin",
 		"client.compat.emf.EMFPlayerModelFixMixin",
 		"client.PlayerInfoMixin",
 		"client.RemotePlayerMixin",

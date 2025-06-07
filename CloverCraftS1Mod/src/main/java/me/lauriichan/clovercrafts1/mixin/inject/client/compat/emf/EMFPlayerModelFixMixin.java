@@ -16,7 +16,7 @@ import net.minecraft.world.entity.player.Player;
 import traben.entity_model_features.models.animation.EMFAnimationEntityContext;
 
 @Mixin(value = PlayerModel.class, priority = 1999)
-public class EMFPlayerModelFixMixin {
+public abstract class EMFPlayerModelFixMixin {
 
     @Shadow
     @Final
